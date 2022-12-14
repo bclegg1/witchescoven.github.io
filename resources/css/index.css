@@ -58,11 +58,11 @@ h2 {
 
 .welcome h2 {
     font-size: 44px;
-    width: fit-content;
+    width: 212px;
     border:inset 10px #7a0505;
     padding: 0px 5px;
     border-radius: 50%;
-    height: 203px;
+    height: 212px;
     position: relative;
     padding-top: 60px;
 }
