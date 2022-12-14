@@ -103,6 +103,7 @@ footer img {
     background-image: url('./ProfilePic.jfif');
     height: 1128px;
     background-size: contain;
+    width: 630px;
 }
 
 .about-text {
